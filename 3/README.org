@@ -1,0 +1,17 @@
+* The Problem
+
+[[https://projecteuler.net/problem=3][Link to Problem]]
+
+** Original English Problem
+
+The prime factors of 13195 are 5, 7, 13 and 29.
+
+What is the largest prime factor of the number 600851475143 ?
+
+** Indomesia
+
+faktor prima dari 13195 adalah 5, 7, 13, dan 29.
+
+Ini berarti bahwa bilangan 13195 dapat dibagi habis oleh 5, 7, 13, dan 29 tanpa sisa.
+
+Berapakah faktor prima terbesar dari bilangan 600851475143 ?

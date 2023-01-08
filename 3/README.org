@@ -12,6 +12,6 @@ What is the largest prime factor of the number 600851475143 ?
 
 faktor prima dari 13195 adalah 5, 7, 13, dan 29.
 
-Ini berarti bahwa bilangan 13195 dapat dibagi habis oleh 5, 7, 13, dan 29 tanpa sisa.
+yang artinya adalah 13195 hasil dari 5 x 7 x 13 x 29
 
 Berapakah faktor prima terbesar dari bilangan 600851475143 ?

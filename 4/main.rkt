@@ -1,8 +1,6 @@
 ;./main | grep "its palidrome" | sort -n | tail -n 5
 #lang racket
 
-(require racket/list)
-
 (define (number-palidrome? i)
   (define (string-palidrome? s)
     (if (string=?

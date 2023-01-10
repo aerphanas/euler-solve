@@ -7,3 +7,9 @@
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 
 Find the largest palindrome made from the product of two 3-digit numbers.
+
+** Indonesia
+
+Palindrom adalah sebuah kata yang jika dibalik hasilnya sama dengan kata sebelum dibalik contohnya adalah "bob" merupakan kata palindrom
+
+jika hasil terbesar palindrome perkalian antara 2 digit adalah 9009 yang merupakan perkalian dari 91 dan 99 maka berapa palindrome terbesar dari 3 digit

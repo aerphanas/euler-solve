@@ -15,3 +15,17 @@ The square of the sum of the first ten natural numbers is,
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is, 3025 - 385 = 2640
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+
+** Indonesia
+
+Jumlah kuadrat sepuluh bilangan asli pertama adalah
+
+1² + 2² + ...+ 10² = 385
+
+Kuadrat dari jumlah sepuluh bilangan asli pertama adalah,
+
+(1 + 2 + ...+ 10)² = 55² = 3025
+
+Oleh karena itu, selisih antara jumlah kuadrat dari sepuluh bilangan asli pertama dan kuadrat dari jumlah tersebut adalah 3025 - 385 = 2640
+
+Temukan selisih antara jumlah kuadrat dari seratus bilangan asli pertama dan kuadrat dari jumlah tersebut.

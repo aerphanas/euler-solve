@@ -1,6 +1,10 @@
 #lang racket
 
-(define (string->list-parser str)
-  (map (λ (x) (- x 48))
-       (map char->integer
-            (string->list str))))
+(define (input)
+  (define (string->list-integer str)
+    (map (λ (x) (- x 48))
+         (map char->integer
+              (string->list str))))
+  (string->list-integer (read-line
+                         (open-input-file "data.txt"))))
+git 

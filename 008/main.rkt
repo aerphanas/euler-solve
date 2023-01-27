@@ -23,5 +23,3 @@
       (printf "~v = ~v\n"
               (apply * (render-list x 13 (input)))
               (render-list x 13 (input)))))
-
-;(close-input-port dfile)

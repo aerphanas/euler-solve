@@ -3,11 +3,7 @@
 
 (define (number-palidrome? i)
   (define (string-palidrome? s)
-    (if (string=?
-         s
-         (list->string (reverse (string->list s))))
-        #t
-        #f))
+    (if (string=? s (list->string (reverse (string->list s)))) #t #f))
   (if (string-palidrome? (number->string i)) #t #f))
 
 (define check

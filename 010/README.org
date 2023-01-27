@@ -1,0 +1,17 @@
+* The Problem
+
+[[https://projecteuler.net/problem=10][Link to Problem]]
+
+** original English Problem
+
+The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
+
+Find the sum of all the primes below two million.
+
+** Indonesia
+
+jumlah semua bilangan prima dibawah 10 adalah 17 yaitu :
+
+2 + 3 + 5 + 7 = 17
+
+berapakah jumlah untuk 2000000

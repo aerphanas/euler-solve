@@ -1,4 +1,5 @@
 #lang racket
+
 (define a
   (expt 10 2))
 
